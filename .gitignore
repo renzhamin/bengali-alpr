@@ -1,0 +1,8 @@
+models/
+__pycache__
+.ipynb_checkpoints
+bin
+share
+lib
+lib64
+pyvenv.cfg
