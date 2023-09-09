@@ -98,4 +98,4 @@ The similarity measure is calculated using difflib.SequenceMatcher class which h
 
 This a work in progress. There are some issues with using compatible font for bengali. This output was obtained from running yolo detection in google colab and modifying the annotation portion of the detection code.
 
-https://github.com/renzhamin/bengali-alpr/assets/57265942/15797366-87d4-4e92-bd89-aa057a5fbd74
+![real_time_lpr](https://github.com/renzhamin/bengali-alpr/assets/57265942/d2046282-1654-44c9-9461-ec5cf1ff8f6f)
