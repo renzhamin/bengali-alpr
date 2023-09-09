@@ -92,3 +92,10 @@ The saved_model argument specifies the model that you want to fine tune. In this
 | None           | 192        | 90.08                  |
 
 The similarity measure is calculated using difflib.SequenceMatcher class which has a ratio method. This method returns a floating point number in the range [0, 1] indicating how similar two strings are. It produces almost the same result when compared to levenshtein distance also known as edit distance. These experiments were done using google colab.
+
+
+## Real Time License Plate Recognition
+
+This a work in progress. There are some issues with using compatible font for bengali. This output was obtained from running yolo detection in google colab and modifying the annotation portion of the detection code.
+
+https://github.com/renzhamin/bengali-alpr/assets/57265942/15797366-87d4-4e92-bd89-aa057a5fbd74
